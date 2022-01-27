@@ -1,6 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=watsosc&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watsosc&layout=compact&card_width=445&bg_color=00000000&text_color=777)](https://github.com/PlamenHristov/github-readme-stats)
-
 <!--
 **watsosc/watsosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
